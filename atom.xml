@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>andoromeda-foundation</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://andoromeda-foundation.github.io/"/>
+  <updated>2018-02-04T07:40:58.825Z</updated>
+  <id>https://andoromeda-foundation.github.io/</id>
+  
+  <author>
+    <name>Gao JIn</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>helloworld</title>
+    <link href="https://andoromeda-foundation.github.io/2018/02/04/helloworld/"/>
+    <id>https://andoromeda-foundation.github.io/2018/02/04/helloworld/</id>
+    <published>2018-02-04T07:40:21.000Z</published>
+    <updated>2018-02-04T07:40:58.825Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
