@@ -1,0 +1,41 @@
+{
+"nodes":[
+{ "name": "岛娘"   , "image" : "minakokojima.png","department":"x","info":"test01"},
+{ "name": "海虹"   , "image" : "haihong.png" ,"department":"x","info":"test01"},
+{ "name": "小狼" , "image" : "eileen.png","department":"x","info":"test01" },
+{ "name": "潇雨" , "image" : "xiaoyu.png" ,"department":"x","info":"test01"},
+{ "name": "林可"   , "image" : "link.png" ,"department":"x","info":"test01"},
+{ "name": "圣博纳" , "image" : "bona.png" ,"department":"x","info":"test01"},
+{ "name": "黄鸿昊" , "image" : "honghao.png","department":"x","info":"test01" },
+{ "name": "飘神" , "image" : "xppiao.png" ,"department":"x","info":"test01"},
+{ "name": "菜神" , "image" : "nakami.png" ,"department":"x","info":"test01"},
+{ "name": "柯军" , "image" : "kejun.png" ,"department":"x","info":"test01"},
+{ "name": "阿列" , "image" : "lie.png","department":"x","info":"test01" },
+{ "name": "许朋" , "image" : "xupeng.png" ,"department":"x","info":"test01"},
+{ "name": "冰忆" , "image" : "rukata.png" ,"department":"x","info":"test01"},
+{ "name": "udspj" , "image" : "udspj.png" ,"department":"x","info":"test01"},
+{ "name": "高金" , "image" : "gaojin.png" ,"部门":"xxxx","info":"helloworld","性别":"男","爱好":"女"},
+{ "name": "bot" , "image" : "bot.png" }
+],
+"edges":[
+{ "source": 0 , "target": 1 , "relation":"0.20" },
+{ "source": 0 , "target": 2 , "relation":"0.15" },
+{ "source": 0 , "target": 3 , "relation":"0.05" },
+{ "source": 0 , "target": 4 , "relation":"0.20" },
+{ "source": 0 , "target": 7 , "relation":"0.05" },
+{ "source": 0 , "target": 8 , "relation":"0.05" },
+{ "source": 0 , "target": 9 , "relation":"0.10" },
+{ "source": 0 , "target": 10 , "relation":"0.10" },
+{ "source": 0 , "target": 11 , "relation":"0.10" },
+{ "source": 0 , "target": 12 , "relation":"0.10" },
+{ "source": 0 , "target": 13 , "relation":"0.05" },
+{ "source": 0 , "target": 14 , "relation":"0.05" },
+{ "source": 4 , "target": 5 , "relation":"0.5" },
+{ "source": 4 , "target": 6 , "relation":"0,5" },
+{ "source": 3 , "target": 9 , "relation":"0.5" },
+{ "source": 3 , "target": 9 , "relation":"0,5" },
+{ "source": 7 , "target": 8 , "relation":"1" },
+{ "source": 8 , "target": 7 , "relation":"1" },
+{ "source": 14 , "target": 15 , "relation":"1" }
+]
+}
