@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 高金的博客
+title: andoromeda-foundation
 subtitle:
 description:
 author: Gao JIn
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jin10086.github.io/
+url: https://andoromeda-foundation.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -81,5 +81,5 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:jin10086/jin10086.github.io.git
+  repo: git@github.com:Andoromeda-Foundation/andoromeda-foundation.github.io.git
   branch: master
